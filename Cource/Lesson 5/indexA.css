@@ -19,12 +19,12 @@ a{
     color: blue;
 }
 
-p.phenomenon-description{
+.phenomenon-description p{
     margin-left: 20px;
     color: gray;
 }
 
-span.phenomenon-highlight{
+.phenomenon-highlight span{
     color: yellow;
     font-weight: bold
 }
