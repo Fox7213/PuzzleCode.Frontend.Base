@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .gallery{
     display: flex;
     flex-wrap: wrap;
@@ -8,4 +12,16 @@
     width: 100px;
     height: auto;
     cursor: pointer;
+}
+
+.contact-info {
+    padding: 16px;
+    color: #333;
+}
+
+.description {
+    padding: 14px;
+    border: 3px solid #666;
+    color: red;
+    margin-top: 10px;
 }
