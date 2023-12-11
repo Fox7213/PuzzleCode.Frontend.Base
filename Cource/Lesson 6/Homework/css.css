@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.a0{
+    font-size: 50px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Arial', sans-serif;
+    line-height: 3;
+    margin: 20px;
+    background: linear-gradient(rgb(255, 102, 0),rgb(255, 0, 0));
+    text-align: center;
+}
+
+.a1{
+    font-size: 29px;
+    font-weight: 400;
+    font-style: italic;
+    font-family: 'Arial', sans-serif;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.a2{
+    color:#ff7b00;
+    font-size: 29px;
+    font-weight: 400;
+    font-style: italic;
+    font-family: 'Arial', sans-serif;
+    list-style: none;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 50px;
+    background-image:url(https://img1.russianfood.com/dycontent/images_upl/693/big_692071.jpg);
+    background-repeat: no-repeat;
+    background-position:right;
+    background-size: contain;
+    line-height: 2;
+}
+
+.a3{
+    color:#88ff00;
+    font-size: 29px;
+    font-weight: 400;
+    font-style: italic;
+    font-family: 'Arial', sans-serif;
+    list-style: none;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 50px;
+    background-image:url(https://img1.russianfood.com/dycontent/images_upl/694/big_693751.jpg);
+    background-repeat: no-repeat;
+    background-position:right;
+    background-size: contain;
+    line-height: 2;
+}
+
+.a4{
+    color:#13a80e;
+    font-size: 29px;
+    font-weight: 400;
+    font-style: italic;
+    font-family: 'Arial', sans-serif;
+    list-style: none;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 50px;
+    background-image:url(https://img1.russianfood.com/dycontent/images_upl/156/big_155703.jpg);
+    background-repeat: no-repeat;
+    background-position:right;
+    background-size: contain;
+    line-height: 2;
+}
