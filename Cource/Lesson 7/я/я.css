@@ -1,0 +1,100 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.stroka{
+  display: flex;
+}
+
+span{
+  font-weight:bold
+}
+
+.contact-info {
+  padding: 16px;
+  color: #333;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.description {
+  padding: 14px;
+  border: 3px solid #666;
+  color: red;
+  margin-top: 10px;
+  font-style: italic;
+  font-size: 20px;
+  font-weight: normal;
+  margin-left: 10px;
+  width: 1265px;
+}
+
+li{
+  color:#214133;
+  list-style-type: none;
+  font-size: 25px;
+  padding: 5px;
+  margin: 5px;
+}
+
+li::before{
+  content:"~";
+  color:#2bff00;
+}
+
+h1{
+  margin: 5px;
+  text-align: center;
+}
+
+h3{
+  padding: 5px;
+}
+
+p{
+  padding: 5px;
+}
+
+cite{
+  padding: 5px;
+}
+
+img{
+  padding-left: 18px;
+  padding-top: 5px;
+  width: 400px;
+}
+
+a{
+  padding: 5px;
+}
+
+.p1{
+  padding-left: 18px;
+}
+
+.about{
+  border: 3px solid darkmagenta;
+  width: 500px;
+  margin: 10px;
+  margin-right: 50px;
+  margin-left: 10px;
+  font-size: 30px;
+}
+
+.mul{
+  border: 3px solid black;
+  width: 500px;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.info{
+  border: 3px solid darkred;
+  width: 300px;
+  margin: 10px;
+  margin-left: 70px;
+  font-size: 20px;
+}
