@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.a1{
+    position: relative;
+    z-index: auto;
+}
+
+.a2{
+    position: absolute;
+    z-index: 1;
+    left: 150px;
+    top: 100px;
+}
+
+.a3{
+    position: absolute;
+    z-index: 1;
+    left: 280px;
+    top: 200px;
+}
+
+.a4{
+    position: absolute;
+    z-index: 1;
+    left: 420px;
+    top: 300px;
+}
+
+.a5{
+    position:absolute;
+    z-index: 1;
+    left: 550px;
+    top: 400px;
+}
+
+.a6{
+    position: absolute;
+    z-index: 1;
+    left: 700px;
+    top: 500px;
+}
+
+h1{
+    text-align: center;
+}
