@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    font-family: Livvic;
+}
+
+h1{
+    font-family: Livvic;
+}
+
+h2{
+    font-family: Livvic;
+}
+
+.header{
+    background-image:url(./image.svg);
+    padding-left: 150px;
+    height: 1000px;
+}
+
+.header h1{
+    font-size: 70px;
+    color: #F7C35F;
+}
+
+.header h2{
+    font-size: 70px;
+    color: #fff;
+}
+
+.header .p1{
+    color: #fff;
+    font-size: 25px;
+    padding-bottom: 10px;
+    padding-top: 22%;
+}
+
+.hp{
+    font-size: 20px;
+    color: #fff;
+    padding-bottom: 70px;
+    padding-top: 40px;
+}
+
+.header button{
+    background-color: #F7C35F;
+    font-size: 15px;
+    padding: 20px;
+    border-radius: 20px;
+    border: none;
+    font-family: Livvic;
+}
+
+.PopularFoods{
+    background-color: #445945;
+    text-align: center;
+    padding: 50px;
+}
+
+.PopularFoods h2{
+    margin: 20px;
+    font-size: 50px;
+    color: #fff;
+}
+
+.pfp{
+    font-size: 20px;
+    color: #fff;
+}
+
+.pf{
+    color: #fff;
+    font-size: 20px;
+}
+
+.food{
+    display: inline-block;
+    background-color: #556e56c7;
+    border-radius: 15px;
+    font-size: 20px;
+    width: 85px;
+    text-align: center;
+    padding: 2%;
+    margin-right: 40px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+img{
+    width: 40px;
+    height: 40px;
+}
+
+.videosection{
+    background-image: url(./image\ \(1\).svg);
+    height: 600px;
+}
+
+.videosection h2{
+    font-size: 60px;
+    color: #fff;
+    padding: 20%;
+    padding-left: 5%;
+    padding-right: 43%;
+}
+
+.pro{
+    text-align: center;
+    background-image: url(./style.svg);
+    height: 800px;
+}
+
+.pp{
+    color: #fff;
+    font-size: 20px;
+    padding-top: 120px;
+}
+
+.pro h2{
+    color: #fff;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-bottom: 120px;
+}
+
+.d1{
+    display: inline-block;
+    width: 300px;
+    height: 330px;
+    background-image: url(./1.svg);
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.d2{
+    display: inline-block;
+    width: 300px;
+    height: 330px;
+    background-image: url(./2.svg);
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.d3{
+    display: inline-block;
+    width: 300px;
+    height: 330px;
+    background-image: url(./3.svg);
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.d4{
+    display: inline-block;
+    width: 300px;
+    height: 330px;
+    background-image: url(./4.svg);
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.p2{
+    color: #F7C35F;
+    font-size: 12px;
+    margin-right: 170px;
+    margin-top: 275px;
+}
+
+.p3{
+    color: #fff;
+    font-size: 18px;
+    margin-right: 30px;
+    margin-top: 5px;
+}
+
+.img{
+    background-image: url(./carousel.svg);
+    width: 54px;
+    height: 10px;
+    margin-top: 100px;
+    margin-left: 47%;
+}
