@@ -45,15 +45,6 @@ h2{
     padding-top: 40px;
 }
 
-.header button{
-    background-color: #F7C35F;
-    font-size: 15px;
-    padding: 20px;
-    border-radius: 20px;
-    border: none;
-    font-family: Livvic;
-}
-
 .PopularFoods{
     background-color: #445945;
     text-align: center;
@@ -72,7 +63,6 @@ h2{
 }
 
 .pf{
-    color: #fff;
     font-size: 20px;
 }
 
@@ -87,6 +77,25 @@ h2{
     margin-right: 40px;
     margin-top: 50px;
     margin-bottom: 100px;
+    color: #fff;
+}
+
+.food:hover{
+    background-color: #F7C35F;
+    color: black;
+    transition: background-color 0.3s;
+}
+
+.food:focus{
+    color: #fff;
+    background-color: #6A8A6D;
+    transition: background-color 0.3s;
+}
+
+.food:active{
+    color: #fff;
+    background-color: #263C28;
+    transition: background-color 0.3s;
 }
 
 img{
@@ -183,3 +192,29 @@ img{
     margin-top: 100px;
     margin-left: 47%;
 }
+
+.one{
+    background-color: #F7C35F;
+    font-size: 15px;
+    padding: 20px;
+    border-radius: 20px;
+    border: none;
+    font-family: Livvic;
+}
+
+.one:hover{
+    background-color: #F6D086;
+    transition: background-color 0.3s;
+}
+
+.one:focus{
+    background-color: #C58D21;
+    transition: background-color 0.3s;
+}
+
+.one:active{
+    background-color: #A16C06;
+    color: #fff;
+    transition: background-color 0.3s;
+}
+
