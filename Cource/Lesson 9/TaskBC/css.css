@@ -17,7 +17,7 @@ h2{
 
 .header{
     background-color: #334B35;
-    font-size: 18px;
+    font-size: 116%;
     color: #fff;
     height: 90px;
 }
@@ -53,66 +53,71 @@ h2{
 
 .hero{
     background-image:url(./image.svg);
-    padding-left: 150px;
-    height: 900px;
+    padding-left: 10%;
 }
 
 .hero h1{
-    font-size: 70px;
+    font-size: 450%;
     color: #F7C35F;
 }
 
 .hero h2{
-    font-size: 70px;
+    font-size: 450%;
     color: #fff;
 }
 
 .hero .p1{
     color: #fff;
-    font-size: 25px;
-    padding-bottom: 10px;
-    padding-top: 22%;
+    font-size: 161%;
+    padding-bottom: 3%;
+    padding-top: 10%;
 }
 
 .hp{
-    font-size: 20px;
+    font-size: 129%;
     color: #fff;
-    padding-bottom: 70px;
-    padding-top: 40px;
+    padding-bottom: 5%;
+    padding-top: 3%;
 }
 
 .PopularFoods{
     background-color: #445945;
     text-align: center;
-    padding: 50px;
+    padding: 5%;
 }
 
 .PopularFoods h2{
-    margin: 20px;
-    font-size: 50px;
+    margin: 5%;
+    font-size: 321%;
     color: #fff;
 }
 
 .pfp{
-    font-size: 20px;
+    font-size: 129%;
     color: #fff;
 }
 
 .pf{
-    font-size: 20px;
+    font-size: 129%;
+}
+
+.kart{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 .food{
     display: inline-block;
     background-color: #556e56c7;
     border-radius: 15px;
-    font-size: 20px;
-    width: 85px;
+    font-size: 90%;
+    width: 33.3%;
     text-align: center;
-    padding: 2%;
-    margin-right: 40px;
-    margin-top: 50px;
-    margin-bottom: 100px;
+    padding: 5%;
+    margin-right: 2%;
+    margin-top: 5%;
+    margin-bottom: 7%;
+    margin-left: 15%;
     color: #fff;
 }
 
@@ -296,11 +301,12 @@ img{
 
 .one{
     background-color: #F7C35F;
-    font-size: 15px;
+    font-size: 97%;
     padding: 20px;
     border-radius: 20px;
     border: none;
     font-family: Livvic;
+    margin-bottom: 10%;
 }
 
 .one:hover{
