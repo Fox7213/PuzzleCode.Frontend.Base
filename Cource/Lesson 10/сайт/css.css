@@ -11,13 +11,20 @@ header h1{
     display: inline-block;
     margin-top: 1.5%;
     color: #22202E;
-    font-size: 35px;
+    font-size: 25px;
+    margin-left: 1.5%;
+}
+
+nav{
+    padding-left: 360px;
+    display: flex;
+    gap: 50px;
 }
 
 header p{
     display: inline-block;
     margin-top: 25px;
-    margin-left: 25px;
+    /**margin-left: 25px;**/
     margin-bottom: 50px;
 }
 
@@ -35,14 +42,13 @@ header img{
     float: left;
     margin-top: 2%;
     margin-left: 2%;
-    margin-left: 2%;
 }
 
 .im2{
     float: right;
     margin-top: 2%;
-    margin-left: 2%;
-    margin-left: 2%;
+    margin-right: 0.5%;
+    margin-left: 0.3%;
 }
 
 .st{
@@ -52,25 +58,27 @@ header img{
 
 .st img{
     float: right;
-    margin-left: 20px;
+    margin-left: 60px;
 }
 
 .fur{
+    margin-top: 20px;
+    margin-left: 30px;
     display: inline-block;
     background-color: #2A254B;
     color: #fff;
-    width: 90%;
+    width: 91%;
     text-align: left;
 }
 
 .fur h2{
-    margin: 40px;
-    margin-right: 650px;
+    margin: 60px;
+    margin-right: 700px;
     font-size: 30px;
 }
 
 .fur button{
-    margin-left: 40px;
+    margin-left: 60px;
     padding: 15px 30px 15px 30px;
     background-color: #4e4d93b7;
     border: none;
@@ -90,9 +98,10 @@ header img{
 }
 
 .feat h2{
-    margin-top: 40px;
+    margin-top: 90px;
+    margin-left: 80px;
     color: #2A254B;
-    font-size: 25px;
+    font-size: 30px;
     margin-bottom: 20px;
 }
 
@@ -142,7 +151,8 @@ header img{
     font-size: 25px;
     margin-top: 40px;
     margin-bottom: 20px;
-    text-align: center;
+    margin-left: 35px;
+    text-align: left;
 }
 
 .cer1{
