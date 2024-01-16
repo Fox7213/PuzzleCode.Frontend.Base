@@ -11,6 +11,7 @@ header h1{
     display: inline-block;
     margin-top: 1.5%;
     color: #22202E;
+    font-size: 35px;
 }
 
 header p{
@@ -23,6 +24,7 @@ header p{
 header a{
     color: #726E8D;
     text-decoration: none;
+    font-size: 20px;
 }
 
 header img{
@@ -184,6 +186,193 @@ header img{
     background-color: #F9F9F9;
     color: #2A254B;
     padding: 10px 30px 10px 30px;
-    font-size: 16px;
+    font-size: 18px;
     border: none;
+}
+
+.poppr{
+    display: inline-block;
+    width: 98%;
+}
+
+.poppr h2{
+    color: #2A254B;
+    font-size: 25px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    text-align: left;
+}
+
+.pp1{
+    display: inline-block;
+    width: 49%;
+    margin-left: 30px;
+    text-align: left;
+    color: #2A254B;
+    font-size: 20px;
+}
+
+.pp2{
+    display: inline-block;
+    width: 24%;
+    text-align: left;
+    color: #2A254B;
+    font-size: 20px;
+}
+
+.pp3{
+    display: inline-block;
+    width: 20%;
+    text-align: left;
+    color: #2A254B;
+    font-size: 20px;
+}
+
+.text{
+    text-align: center;
+    color: #2A254B;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 15%;
+    margin-bottom: 10%;
+}
+
+.text h4{
+    font-size: 30px;
+    margin-bottom: 5%;
+}
+
+.text p{
+    font-size: 30px;
+    margin-bottom: 10%;
+}
+
+.e{
+    margin-left: -8%;
+    font-size: 20px;
+    padding: 15px 200px 15px 20px;
+    border: none;
+    color: #2A254B;
+}
+
+.em{
+    font-size: 16px;
+    padding: 15px 30px 15px 30px;
+    background-color: #2A254B;
+    color: #fff;
+    border: none;
+}
+
+.fs{
+    display: inline-block;
+    width: 100%;
+    text-align: left;
+    color: #2A254B;
+}
+
+.fs img{
+    float: right;
+    width: 50%;
+    margin-left: 40px;
+}
+
+.fs h4{
+    font-size: 25px;
+    margin: 50px 20px;
+    padding-right: 700px;
+}
+
+.fs p{
+    font-size: 20px;
+    margin: 50px 20px;
+    padding-right: 750px;
+}
+
+.get{
+    font-size: 16px;
+    padding: 10px 20px 10px 20px;
+    border: none;
+    background-color:#fff;
+    color: #2A254B;
+    font-weight: 600;
+    margin-top: 40px;
+}
+
+footer{
+    background-color: #2A254B;
+    color: #fff;
+}
+
+footer p{
+    margin: 10px;
+    font-size: 18px;
+}
+
+footer h5{
+    font-size: 20px;
+    margin: 10px;
+}
+
+.menu{
+    display: inline-block;
+    width: 15%;
+    margin: 25px;
+    margin-left: 5%;
+}
+
+.Categories{
+    display: inline-block;
+    width: 15%;
+}
+
+.Ourcompany{
+    display: inline-block;
+    width: 15%;
+}
+
+.form{
+    float: right;
+    margin-right: 5%;
+    margin-top: 30px;
+}
+
+.form h5{
+    font-size: 20px;
+}
+
+.lin{
+    margin-left: 5%;
+    width: 90%;
+    height: 1px;
+    background-color: #fff;
+}
+
+.e1{
+    margin-left: 10px;
+    font-size: 20px;
+    padding: 15px 160px 15px 20px;
+    border: none;
+    background-color: #4E4D93;
+    color: #fff;
+}
+
+.em1{
+    font-size: 20px;
+    padding: 15px 30px 15px 30px;
+    background-color: #fff;
+    color: #2A254B;
+    border: none;
+}
+
+.cop{
+    display: inline-block;
+    margin-left: 5%;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.icons{
+    float: right;
+    margin-top: 20px;
+    margin-right: 5%;
 }
