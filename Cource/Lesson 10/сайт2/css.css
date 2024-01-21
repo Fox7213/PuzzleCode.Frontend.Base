@@ -1,0 +1,313 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    margin-left: 20px;
+}
+
+header h1{
+    margin-top: 30px;
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+header a{
+    color: #726E8D;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+nav{
+    margin-top: 30px;
+    padding-left: 150px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    gap: 50px;
+}
+
+header .img{
+    display: flex;
+    margin-left: 14%;
+}
+
+header img{
+    margin-top: 20px;
+    margin-left: 25%;
+}
+
+.prod{
+    padding-bottom: 3%;
+    display: flex;
+    grid-template-columns: 5fr 5fr;
+    background-color: #F9F9F9;
+}
+
+.prod img{
+    margin-left: 4%;
+    margin-top: 5%;
+}
+
+.ch{
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-right: 6%;
+}
+
+.nc{
+    font-size: 30px;
+    margin-top: 7%;
+}
+
+.cen{
+    margin-top: 2%;
+}
+
+.lin{
+    margin-top: 5%;
+    width: 550px;
+    height: 3px;
+    background-color: #EBE8F4;
+}
+
+.od{
+    margin-top: 5%;
+}
+
+.pd{
+    font-size: 25px;
+}
+
+.op{
+    margin-top: 2%;
+    font-size: 18px;
+}
+
+.dime{
+    margin-top: 5%;
+}
+
+.dim{
+    font-size: 25px;
+}
+
+.di{
+    margin-top: 2%;
+    display: flex;
+    gap: 10%;
+    font-size: 20px;
+    line-height: 35px;
+}
+
+.qua{
+    width: 100px;
+    margin-top: 1%;
+    line-height:45px;
+}
+
+.qu{
+    font-size: 25px;
+}
+
+.kol{
+    display: flex;
+    font-size: 25px;
+    gap: 20px;
+    background-color: #fff;
+}
+
+.p2{
+    margin-left: 10px;
+}
+
+.p1{
+    font-size: 20px;
+    margin-left: 6px;
+    color: #EBE8F4;
+}
+
+.but{
+    margin-top: 10%;
+    display: flex;
+}
+
+.add{
+    font-size: 20px;
+    padding: 13px 25px;
+    background-color: #2A254B;
+    border: none;
+    color: #fff;
+}
+
+.save{
+    font-size: 20px;
+    padding: 13px 40px;
+    border: none;
+    background-color: #fff;
+    color: #2A254B;
+}
+
+.also{
+    text-align: center;
+    margin-left: 4%;
+    margin-top: 5%;
+}
+
+.a1{
+    text-align: left;
+    font-size: 30px;
+}
+
+.pro{
+    margin-top: 2%;
+    font-size: 20px;
+    line-height: 35px;
+    display:flex;
+    text-align: left;
+    gap: 15px;
+}
+
+.see{
+    margin-top: 3%;
+    padding:10px 25px;
+    font-size: 20px;
+    border: none;
+}
+
+.fe{
+    margin-top: 10%;
+    margin-left: 4%;
+}
+
+.f{
+    text-align: center;
+    font-size: 30px;
+    color: #2A254B;
+}
+
+.feat{
+    margin-top: 2%;
+    display: flex;
+    gap: 40px;
+}
+
+.f1{
+    background-color: #F9F9F9;
+    font-size: 20px;
+    padding: 40px;
+    color: #2A254B;
+}
+
+.f1 h4{
+    margin-top: 5%;
+}
+
+.f1 p{
+    margin-top: 5%;
+}
+
+.text{
+    margin-top: 5%;
+    display: flex;
+    grid-template-columns: 1fr 1fr;
+}
+
+.join{
+    color: #2A254B;
+}
+
+.j{
+    text-align: center;
+    margin-top: 10%;
+    font-size: 30px;
+}
+
+.s{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 20%;
+    font-size: 20px;
+    text-align: left;
+}
+
+.forma{
+    margin-top: 35%;
+    margin-left: 10%;
+    display: flex;
+}
+
+.e{
+    font-size: 20px;
+    padding: 15px 170px 15px 20px;
+    border: none;
+    color: #2A254B;
+    background-color: #F9F9F9;
+}
+
+.si{
+    font-size: 20px;
+    padding: 15px 30px 15px 30px;
+    background-color: #2A254B;
+    color: #fff;
+    border: none;
+}
+
+footer{
+    background-color: #2A254B;
+    color: #fff;
+}
+
+.mco{
+    padding-top: 3%;
+    display: flex;
+    gap: 100px;
+    margin-left: 5%;
+}
+
+footer p{
+    margin: 10px;
+    font-size: 18px;
+}
+
+footer h5{
+    font-size: 20px;
+    margin: 10px;
+}
+
+.lin{
+    margin-left: 5%;
+    width: 90%;
+    height: 1px;
+    background-color: #fff;
+}
+
+.e1{
+    margin-left: 10px;
+    font-size: 20px;
+    padding: 15px 160px 15px 20px;
+    border: none;
+    background-color: #4E4D93;
+    color: #fff;
+}
+
+.for{
+    display: flex;
+}
+
+.em1{
+    font-size: 20px;
+    padding: 15px 30px 15px 30px;
+    background-color: #fff;
+    color: #2A254B;
+    border: none;
+}
+
+.ic{
+    margin-top: 1%;
+    display: flex;
+    margin-left: 4%;
+    gap: 50%;
+}
